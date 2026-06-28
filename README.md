@@ -39,14 +39,3 @@ Program ini memanfaatkan beberapa konsep fundamental dan lanjutan dari mata kuli
 5. **Searching & Linear Control:** Algoritma pencarian data berdasarkan ID konser untuk menemukan indeks data target yang ingin dimodifikasi oleh admin.
 
 ---
-
-## 💻 Cara Menjalankan Program (Setup & Run)
-
-### 1. Prasyarat (Prerequisites)
-Pastikan di komputer Anda sudah terinstal *compiler* C++ seperti **GCC/G++** dan editor kode (disarankan menggunakan **VS Code** dengan ekstensi C/C++).
-
-### 2. Kloning Repositori
-Buka terminal atau Git Bash, lalu jalankan perintah:
-```bash
-git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
-cd nama-repo
